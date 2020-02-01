@@ -36,9 +36,9 @@ For this problem I first utlized the PushShift API to collect 10,000 posts from 
 
 After this feature engineering I performed some EDA and found 2 interesting charts of the most frequent tokens in the primary 2 target subreddit's: r/woodworking and r/mtb.
 
-![wood](./visuals/download-1.jpg)
+![wood](./visuals/download-1.png)
 
-![mtb](./visuals/download.jpg)
+![mtb](./visuals/download.png)
 
 A couple interesting notes from these bar plots:
 - There is some overlap between the two, largely on tokens that we would expect to be removed by stopwords (i.e. 'just', 'like')
