@@ -111,3 +111,4 @@ We were unable to achieve 80% classification accuracy with a test accuracy of on
 - Try different stop word dictionaries to see if they improve the model
 - Try additional models
 - Multi-class models (i.e. not bernoulli)
+
